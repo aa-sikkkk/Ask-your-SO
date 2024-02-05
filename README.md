@@ -1,28 +1,31 @@
-<h1 align="center">
-    Valentine's Wish
-</h1>
+# 🤍 Ask Your SO out!
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+Fun project made with CSS and JS. I built the side project for learning purposes. You can use this project to ask your significant other out on date!
 
+## 📦 Technologies
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+- `HTML`
+- `CSS`
+- `JavaScript`
 
-## Make your own version :computer:
-
-:camera::camera::camera::camera::camera::camera::camera:
-*Start with Smile*:smile::smile:
-
-* Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
-* Turn on GitHub pages for the repository (Settings > GitHub Pages)
-* Send the URL that you get at the above step to your friend
+## 😀 Fun
+![Valentine](https://github.com/aa-sikkkk/Ask-him-her-out/assets/152005759/11ba3a34-c221-423c-a94b-057064cf7542)
+![Valentine (1)](https://github.com/aa-sikkkk/Ask-him-her-out/assets/152005759/7f030a48-808d-498a-9b3b-743b26eabcd1)
 
 
-## Contributing
+Here's what you can do with This Project:
 
-If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
+- **Ask Your Crush/So**: You might want to try new way to ask your Significant other, this might be the fun way haha!
 
-Stay happy and keep the people you care about happy. :)
 
-#### OwnerShip
- The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
+## 💭 How can it be improved?
+
+- Add more fun elements to the project.
+
+## 🚦 Running the Project
+To run the project simply git clone https://github.com/aa-sikkkk/Ask-him-her-out.git.
+open the project in Vs Code ( Make sure to download Live server extension)
+and open the link http://127.0.0.1:5500/index.html and enjoy contributing to the project.
+
+## Credits 
+The animations used in the Repository is created by Afiur Rahman Fahim(faahim).
