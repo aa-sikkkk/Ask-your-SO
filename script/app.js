@@ -33,7 +33,7 @@ noButton.addEventListener("click", function () {
   titleElement.innerHTML = "Hehehe! :33";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
-  window.open("https://aa-sikkkk.github.io/heart.html", "_self value");
+  window.open("/heart.html", "_self value");
 
 }
   
