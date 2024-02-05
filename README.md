@@ -2,7 +2,7 @@
 
 Fun project made with CSS and JS. I built the side project for learning purposes. You can use this project to ask your significant other out on date!
 
-You can send this link to your SO: https://my-so.vercel.app/
+You can send this link to your SO: https://aa-sikkkk-so.vercel.app/index.html
 
 ## 📦 Technologies
 
